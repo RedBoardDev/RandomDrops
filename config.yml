@@ -1,0 +1,23 @@
+#Define which type of drops should be able to be randomized
+Blocks: true
+Entity: true
+
+#Probability of getting a random drop
+Probability: 50
+
+BlacklistWorld:
+  - world_nether
+
+#List of items to be prohibited from random drop
+BlackListItem:
+  - 'STRUCTURE_BLOCK'
+  - 'BARRIER'
+  - 'STRUCTURE_VOID'
+  - 'COMMAND_BLOCK'
+  - 'CHAIN_COMMAND_BLOCK'
+  - 'REPEATING_COMMAND_BLOCK'
+  - 'BEDROCK'
+  - 'COMMAND'
+  - 'repeating_command_block'
+  - 'chain_command_block'
+  - 'command_block_minecart'
