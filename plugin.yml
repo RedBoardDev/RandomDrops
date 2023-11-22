@@ -1,6 +1,0 @@
-name: RandomDrops
-version: 1.0.2
-author: RedBoard
-main: fr.redboard.randomdrops.RandomDrops
-commands:
-  drops:
